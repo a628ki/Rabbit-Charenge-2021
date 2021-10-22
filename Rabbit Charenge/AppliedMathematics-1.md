@@ -40,6 +40,7 @@
       > $$
       - 行列の積
       > 方法
+      >  <img src="https://latex.codecogs.com/gif.latex?\left(\begin{array}{ccc}&space;a_{11}&space;&&space;a_{12}&space;&&space;a_{13}&space;\\&space;a_{21}&space;&&space;a_{22}&space;&&space;a_{23}&space;\\&space;a_{31}&space;&&space;a_{32}&space;&&space;a_{33}&space;\end{array}\right)&space;\quad&space;\left(\begin{array}{ccc}&space;b_{11}&space;&&space;b_{12}&space;&&space;b_{13}&space;\\&space;b_{21}&space;&&space;b_{22}&space;&&space;b_{23}&space;\\&space;b_{31}&space;&&space;b_{32}&space;&&space;b_{33}&space;\end{array}\right)&space;\quad&space;=\left(\begin{array}{ccc}&space;a_{11}b_{11}&space;&plus;&space;a_{12}b_{21}&space;&plus;a_{13}b_{31}&space;&&space;a_{11}b_{12}&space;&plus;&space;a_{12}b_{22}&space;&plus;a_{13}b_{32}&space;&&space;a_{11}b_{13}&space;&plus;&space;a_{12}b_{23}&space;&plus;a_{13}b_{33}&space;\\&space;a_{21}b_{11}&space;&plus;&space;a_{22}b_{21}&space;&plus;a_{23}b_{31}&space;&&space;a_{21}b_{12}&space;&plus;&space;a_{22}b_{22}&space;&plus;a_{23}b_{32}&space;&&space;a_{21}b_{13}&space;&plus;&space;a_{22}b_{23}&space;&plus;a_{23}b_{33}&space;\\&space;a_{31}b_{11}&space;&plus;&space;a_{32}b_{21}&space;&plus;a_{33}b_{31}&space;&&space;a_{31}b_{12}&space;&plus;&space;a_{32}b_{22}&space;&plus;a_{33}b_{32}&space;&&space;a_{31}b_{13}&space;&plus;&space;a_{32}b_{23}&space;&plus;a_{33}b_{33}&space;\end{array}\right)&space;\quad" />
       > $$
 \left(\begin{array}{ccc}
             a_{11}  & a_{12} & a_{13} \\ a_{21}  & a_{22} & a_{23} \\ a_{31}  & a_{32} & a_{33}
