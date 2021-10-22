@@ -23,6 +23,11 @@
      - 行列とベクトルの積
 
       > 例題
+      > ![\begin{align*}
+R(g) &= \frac{1}{n} \sum_{i=1}^{n} \ell(y_i,g(x_i))\\
+&=\frac{1}{2n} (\mathbf{X}\boldsymbol{w}-\mathbf{y})^T (\mathbf{X}\boldsymbol{w}-\mathbf{y})
+\end{align*}
+]
       > $$
 \left(\begin{array}{cc}
 6 & 4 \\ 3 & 5
